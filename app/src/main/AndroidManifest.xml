@@ -14,10 +14,9 @@
         android:theme="@style/Theme.App_fitnessTrackerfeip"
         tools:targetApi="31">
         <activity
-            android:name=".screens.StartOpen.SplashActivity"
+            android:name=".screens.MainActivity"
             android:exported="true"
-            android:label="@string/title_activity_splash"
-            android:theme="@style/Theme.App_fitnessTrackerfeip.NoActionBar">
+            android:theme="@style/Theme.App.Starting">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

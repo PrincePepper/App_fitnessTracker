@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">App_fitnessTracker</string>
-    <string name="title_activity_splash">SplashActivity</string>
     <!-- Strings used for fragments for navigation -->
 </resources>
